@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+rooflre/com/mi_card_flutter/BuildConfig.java
+ rooflre.com.mi_card_flutter.BuildConfig
